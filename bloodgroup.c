@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <stdio.h> //Change B line 1
+#include <string.h> // Change B line 2
 void main()
 { char Name[40], G[5], answer[10];
   int i;
