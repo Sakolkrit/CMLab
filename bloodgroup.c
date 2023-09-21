@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 #include <stdio.h> // Change A line 1
 #include <string.h> // Change A line 2
-=======
-#include <stdio.h> //Change B line 1
-#include <string.h> // Change B line 2
->>>>>>> f2c4cd6674dbd40797c563cff26855354719b89d
 void main()
 { char Name[40], G[5], answer[10];
   int i;
